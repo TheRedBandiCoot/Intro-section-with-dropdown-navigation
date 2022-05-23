@@ -462,7 +462,7 @@ footer {
         position: relative;
         bottom: 15rem;
         left: -1px;
-        background: url(images/image-hero-mobile.png) no-repeat;
+        background: url(image-hero-mobile.png) no-repeat;
         background-position: center;
         background-size: 100%;
         height: 120%;
