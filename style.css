@@ -164,7 +164,7 @@ article a p:hover {
 
 .image {
     grid-area: img;
-    background: url(./images/image-hero-desktop.png) center/contain no-repeat;
+    background: url(image-hero-desktop.png) center/contain no-repeat;
     margin-left: 5rem;
     width: 34rem;
 }
