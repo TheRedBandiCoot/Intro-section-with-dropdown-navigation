@@ -117,6 +117,25 @@ p::selection {
     height: 50%;
 }
 
+.mobile {
+    position: absolute;
+    color: red !important;
+    left: 5px;
+    opacity: 40%;
+    font-size: 0.8rem;
+    animation: mobile 0.5s linear infinite alternate-reverse;
+}
+
+@keyframes mobile {
+    0% {
+        opacity: 40%;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
 article {
     display: flex;
     flex-direction: column;
