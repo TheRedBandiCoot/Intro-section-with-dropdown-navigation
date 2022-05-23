@@ -462,6 +462,10 @@ footer {
 }
 
 @media(max-width:375px) {
+    .mobile {
+        display: none;
+    }
+    
     .showcase {
         position: relative;
         width: 100%;
